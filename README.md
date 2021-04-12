@@ -10,4 +10,4 @@
 
 4.Open scripts.js to get js code.
 
-5.Open contents.js to get map_object code.
+5.Open contents.js to get map_object js code.
